@@ -1,0 +1,6 @@
+@import url("../css/style-desktop-big.css") (min-width: 1640px);
+@import url("../css/style-desktop.css") (max-width: 1639px) and (min-width: 1366px);
+@import url("../css/style-desktop-little.css") (max-width: 1365px) and (min-width: 1024px);
+@import url("../css/style-tablet-big.css") (max-width: 1023px) and (min-width: 700px);
+@import url("../css/style-tablet.css") (max-width: 699px) and (min-width: 426px);
+@import url("../css/style-mobile.css") (max-width: 425px) and (min-width: 0px);
